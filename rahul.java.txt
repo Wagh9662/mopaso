@@ -1,0 +1,6 @@
+class demo{
+Public static void main(String arg[]){
+
+	System.out.println("i am rahul");
+	}
+}
