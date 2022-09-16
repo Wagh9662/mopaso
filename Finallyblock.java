@@ -17,6 +17,6 @@ int b=10;
               {
     	        sc.close();
               }
-             System.out.println("end of programme");
+             System.out.println("end");
 }
 }
