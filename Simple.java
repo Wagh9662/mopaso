@@ -14,7 +14,7 @@ public class Simple {
       map.put(1, "al");
       for(Map.Entry<Integer, String> entry:map.entrySet())
       {
-    	  System.out.println(entry.getKey()+" yes"+entry.getValue());
+    	  System.out.println(entry.getKey()+" yesn"+entry.getValue());
       }
 //		ArrayList al=new ArrayList();
 //		al.add(10);
