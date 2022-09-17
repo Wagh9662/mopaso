@@ -10,7 +10,7 @@ public class Factorial {
 		for(int i=1;i<=10;i++)
 		{
 			fact=fact*i;
-		Omkar @12:00
+		chnages made by me
 		// in git
 		}
 		
